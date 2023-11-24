@@ -1,6 +1,6 @@
 <fable>
     <page background="bg.png">
-        <agent sprite="idle.png" x="60" y="90" width="164" height="113" frame-count="6" fps="8" on-touch="up">
+        <agent sprite="idle.png" x="60" y="90" width="164" height="113" frame-count="8" fps="6" on-touch="up" >
             <up sprite="up.png" x="60" y="90" width="164" height="113" frame-count="8" fps="8"/>
         </agent>
     </page>
